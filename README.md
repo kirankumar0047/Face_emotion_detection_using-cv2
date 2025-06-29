@@ -1,6 +1,6 @@
 😊 Real-Time Face Emotion Detection System:
 
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-KollaKiran%20Kumar-red)
 ---
 
 This project is a real-time face emotion detection system built using OpenCV, DeepFace, and other deep learning libraries. It detects facial expressions such as **Happy**, **Sad**, **Neutral**, **Angry**, etc., with a green bounding box and displays the emotion name along with prediction accuracy. It also plays an emotion-based sound and detects fake/deepfake faces with an error message.
